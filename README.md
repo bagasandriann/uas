@@ -1,1 +1,1 @@
-# https//uas
+# http://uas
